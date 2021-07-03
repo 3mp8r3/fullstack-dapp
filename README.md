@@ -1,5 +1,3 @@
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxq0yu3jd7qw35itdxii.jpg)
-
 ## Building Full Stack dApps with React, Ethers.js, and Hardhat
 
 I recently joined [Edge and Node](https://twitter.com/edgeandnode) as a Developer Relations Engineer and have been diving deeper into smart contract development with Ethereum. I have settled upon what I think is the best stack for building full stack dApps with Solidity:
